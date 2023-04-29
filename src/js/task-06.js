@@ -1,4 +1,4 @@
-const input = document.querySelector('#validation-input');
+const input = document.getElementById('validation-input');
 
 input.addEventListener('blur', onInputBlur);
 
