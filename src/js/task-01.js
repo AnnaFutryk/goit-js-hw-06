@@ -1,4 +1,4 @@
-const categoriesList = document.querySelector('#categories');
+const categoriesList = document.getElementById('categories');
 // всі елементи категорій
 const categoriesItems = categoriesList.querySelectorAll('.item');
 
