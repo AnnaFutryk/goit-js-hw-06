@@ -7,7 +7,7 @@ const ingredients = [
   'Condiments',
 ];
 
-const ingredientList = document.querySelector('#ingredients');
+const ingredientList = document.getElementById('ingredients');
  
 //* поганий варіант
 // ingredients.forEach(ingredient => {
