@@ -6,7 +6,6 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
-
 const ingredientList = document.getElementById('ingredients');
  
 //* поганий варіант
@@ -16,7 +15,6 @@ const ingredientList = document.getElementById('ingredients');
 //   ingredientItem.classList.add('item');
 
 //   ingredientList.appendChild(ingredientItem);
-
 // });
 
 //* норм варіант
